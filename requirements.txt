@@ -1,0 +1,6 @@
+openpyxl
+pandas
+matplotlib
+seaborn
+jinja2
+weasyprint
